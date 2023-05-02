@@ -1,0 +1,12 @@
+D:\TC1 2023\ConsoleApp\BLL\bin\Debug\BLL.dll
+D:\TC1 2023\ConsoleApp\BLL\bin\Debug\BLL.pdb
+D:\TC1 2023\ConsoleApp\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\TC1 2023\ConsoleApp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\TC1 2023\ConsoleApp\BLL\obj\Debug\BLL.dll
+D:\TC1 2023\ConsoleApp\BLL\obj\Debug\BLL.pdb
+C:\Users\Navegador\Desktop\ConsoleApp\BLL\bin\Debug\BLL.dll
+C:\Users\Navegador\Desktop\ConsoleApp\BLL\bin\Debug\BLL.pdb
+C:\Users\Navegador\Desktop\ConsoleApp\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Navegador\Desktop\ConsoleApp\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\Desktop\ConsoleApp\BLL\obj\Debug\BLL.dll
+C:\Users\Navegador\Desktop\ConsoleApp\BLL\obj\Debug\BLL.pdb

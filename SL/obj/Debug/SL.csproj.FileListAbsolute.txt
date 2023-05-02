@@ -1,0 +1,12 @@
+D:\TC1 2023\ConsoleApp\SL\bin\Debug\SL.dll
+D:\TC1 2023\ConsoleApp\SL\bin\Debug\SL.pdb
+D:\TC1 2023\ConsoleApp\SL\obj\Debug\SL.csproj.AssemblyReference.cache
+D:\TC1 2023\ConsoleApp\SL\obj\Debug\SL.csproj.CoreCompileInputs.cache
+D:\TC1 2023\ConsoleApp\SL\obj\Debug\SL.dll
+D:\TC1 2023\ConsoleApp\SL\obj\Debug\SL.pdb
+C:\Users\Navegador\Desktop\ConsoleApp\SL\obj\Debug\SL.csproj.AssemblyReference.cache
+C:\Users\Navegador\Desktop\ConsoleApp\SL\obj\Debug\SL.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\Desktop\ConsoleApp\SL\obj\Debug\SL.dll
+C:\Users\Navegador\Desktop\ConsoleApp\SL\obj\Debug\SL.pdb
+C:\Users\Navegador\Desktop\ConsoleApp\SL\bin\Debug\SL.dll
+C:\Users\Navegador\Desktop\ConsoleApp\SL\bin\Debug\SL.pdb

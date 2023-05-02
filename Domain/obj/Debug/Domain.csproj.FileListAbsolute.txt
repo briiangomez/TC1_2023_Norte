@@ -1,0 +1,12 @@
+D:\TC1 2023\ConsoleApp\Domain\bin\Debug\Domain.dll
+D:\TC1 2023\ConsoleApp\Domain\bin\Debug\Domain.pdb
+D:\TC1 2023\ConsoleApp\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+D:\TC1 2023\ConsoleApp\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+D:\TC1 2023\ConsoleApp\Domain\obj\Debug\Domain.dll
+D:\TC1 2023\ConsoleApp\Domain\obj\Debug\Domain.pdb
+C:\Users\Navegador\Desktop\ConsoleApp\Domain\bin\Debug\Domain.dll
+C:\Users\Navegador\Desktop\ConsoleApp\Domain\bin\Debug\Domain.pdb
+C:\Users\Navegador\Desktop\ConsoleApp\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\Navegador\Desktop\ConsoleApp\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\Desktop\ConsoleApp\Domain\obj\Debug\Domain.dll
+C:\Users\Navegador\Desktop\ConsoleApp\Domain\obj\Debug\Domain.pdb

@@ -1,0 +1,23 @@
+D:\TC1 2023\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\TC1 2023\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\TC1 2023\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\TC1 2023\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+D:\TC1 2023\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\TC1 2023\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\TC1 2023\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\Navegador\Desktop\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Navegador\Desktop\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Navegador\Desktop\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Navegador\Desktop\ConsoleApp\ConsoleApp\bin\Debug\DAL.dll
+C:\Users\Navegador\Desktop\ConsoleApp\ConsoleApp\bin\Debug\Domain.dll
+C:\Users\Navegador\Desktop\ConsoleApp\ConsoleApp\bin\Debug\DAL.pdb
+C:\Users\Navegador\Desktop\ConsoleApp\ConsoleApp\bin\Debug\Domain.pdb
+C:\Users\Navegador\Desktop\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Navegador\Desktop\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\Desktop\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\Navegador\Desktop\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Navegador\Desktop\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\Navegador\Desktop\ConsoleApp\ConsoleApp\bin\Debug\I18n\idioma.en-US
+C:\Users\Navegador\Desktop\ConsoleApp\ConsoleApp\bin\Debug\I18n\idioma.es-AR
+C:\Users\Navegador\Desktop\ConsoleApp\ConsoleApp\bin\Debug\SL.dll
+C:\Users\Navegador\Desktop\ConsoleApp\ConsoleApp\bin\Debug\SL.pdb

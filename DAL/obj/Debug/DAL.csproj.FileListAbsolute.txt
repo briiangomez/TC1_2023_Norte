@@ -1,0 +1,18 @@
+D:\TC1 2023\ConsoleApp\DAL\bin\Debug\DAL.dll
+D:\TC1 2023\ConsoleApp\DAL\bin\Debug\DAL.pdb
+D:\TC1 2023\ConsoleApp\DAL\bin\Debug\Domain.dll
+D:\TC1 2023\ConsoleApp\DAL\bin\Debug\Domain.pdb
+D:\TC1 2023\ConsoleApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\TC1 2023\ConsoleApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\TC1 2023\ConsoleApp\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\TC1 2023\ConsoleApp\DAL\obj\Debug\DAL.dll
+D:\TC1 2023\ConsoleApp\DAL\obj\Debug\DAL.pdb
+C:\Users\Navegador\Desktop\ConsoleApp\DAL\bin\Debug\DAL.dll
+C:\Users\Navegador\Desktop\ConsoleApp\DAL\bin\Debug\DAL.pdb
+C:\Users\Navegador\Desktop\ConsoleApp\DAL\bin\Debug\Domain.dll
+C:\Users\Navegador\Desktop\ConsoleApp\DAL\bin\Debug\Domain.pdb
+C:\Users\Navegador\Desktop\ConsoleApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Navegador\Desktop\ConsoleApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\Desktop\ConsoleApp\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Navegador\Desktop\ConsoleApp\DAL\obj\Debug\DAL.dll
+C:\Users\Navegador\Desktop\ConsoleApp\DAL\obj\Debug\DAL.pdb
